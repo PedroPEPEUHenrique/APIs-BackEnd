@@ -38,9 +38,9 @@ Abaixo estão os microsserviços e estudos contidos neste repositório. Cada pas
 | Pasta | Descrição | Stack Principal |
 | :--- | :--- | :--- |
 | **`ApiNode`** | API REST desenvolvida em Node.js comExpress. | Node.js, JS |
-| **`api-cadastro`** | Sistema de microsserviço focado em gestão de usuários/cadastros. | *A verificar* |
-| **`apiarq`** | Estudo de arquitetura de API e organização de rotas. | *A verificar* |
-| **`GameSpace`** | Backend para plataforma de jogos ou integração de serviços. | *A verificar* |
+| **`api-cadastro`** | Sistema de microsserviço focado em gestão de usuários/cadastros. | Node.js, JS |
+| **`apiarq`** | Estudo de arquitetura de API e organização de rotas. | Node.js, JS |
+| **`GameSpace`** | Backend para plataforma de jogos ou integração de serviços. | Python |
 
 
 > *Nota: Como as linguagens detectadas no repositório são 50.3% JavaScript e 49.7% Python, a stack específica de algumas pastas precisa ser confirmada dentro de cada subdiretório.*
